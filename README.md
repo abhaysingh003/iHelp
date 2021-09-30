@@ -83,3 +83,10 @@ OR
 
 Clone this repository by typing `git clone https://github.com/abhaysingh003/iHelp.git` command in git bash  
 
+## Contributions
+
+PRs are welcome 🙂
+
+If you find any issue just put it in the issue section
+
+Try to follow PEP 8 guidelines and add comments!!
