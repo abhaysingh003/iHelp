@@ -1,7 +1,6 @@
 import datetime
 import winsound                      # pip install playsound
 
-
 def alarm(Timing):
     altime = str(datetime.datetime.now().strptime(Timing, "%I:%M %p"))
 
