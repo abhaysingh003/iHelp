@@ -28,11 +28,9 @@ from urllib.request import urlopen
 
 engine = pyttsx3.init()
 
-
 def fun_talk(audio):
     engine.say(audio)
     engine.runAndWait()
-
 
 def wish_user():
     hour = int(datetime.datetime.now().hour)
