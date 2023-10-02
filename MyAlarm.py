@@ -23,4 +23,4 @@ def alarm(Timing):
 
 
 if __name__ == '__main__':
-    alarm('09:21 PM')
+    alarm('09:19 PM')
